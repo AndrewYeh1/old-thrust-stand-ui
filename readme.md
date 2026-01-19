@@ -1,3 +1,5 @@
+Project migrated to https://github.com/ubcaerodesign/thrust-stand-v2
+
 New UI for thrust stand
 
 Roadmap:
